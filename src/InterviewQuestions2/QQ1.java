@@ -1,3 +1,5 @@
+package InterviewQuestions2;
+
 import java.util.Scanner;
 
 public class QQ1 {
