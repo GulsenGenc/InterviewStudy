@@ -42,4 +42,5 @@ public class Q05_ArrayListTask {
     private static void ilkIndekseEkle(ArrayList<String> renkler,String renk) {
         renkler.add(0,renk);
     }
+
 }
