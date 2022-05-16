@@ -16,6 +16,7 @@ public class Q01_ReverseString {
         System.out.println("reverse sonrası str =" + str);
 //2.yol
         String str1 = "Java güzel";
+
         for (int i = str1.length() - 1; i >= 0; i--) {
             System.out.print(str1.charAt(i));
 

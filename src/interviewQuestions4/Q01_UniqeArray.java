@@ -1,6 +1,7 @@
 package interviewQuestions4;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class Q01_UniqeArray {
@@ -16,6 +17,7 @@ public class Q01_UniqeArray {
         int arr[]={1,2,2,3,1,4,2,-2,5,6,8,7,5,6,-2,9,3,10};
 
         List<Integer> yenıArray=new ArrayList<>();
+
 
         for (int k:arr
              ) {
